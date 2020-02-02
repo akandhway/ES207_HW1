@@ -8,4 +8,5 @@ sdNile
 
 MeanNile <- mean(Nile)
 MeanNile
-
+hist(Nile)
+#above line added from github
