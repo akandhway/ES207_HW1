@@ -6,3 +6,6 @@ plot (Nile)
 sdNile<- sd(Nile)
 sdNile
 
+MeanNile <- mean(Nile)
+MeanNile
+
